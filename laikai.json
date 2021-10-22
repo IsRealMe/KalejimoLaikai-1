@@ -1,0 +1,88 @@
+{
+    "kalejimoSarasas": [{
+           "name": "Nelegalių ginklų turėjimas su savimi",
+            "value": 25
+        }, {
+            "name": "Nelegalių ginklų platinimas",
+            "value": 30
+        }, {
+            "name": "Šaudymas viešoje vietoje",
+            "value": 35
+        }, {
+            "name": "Ginklo turėjimas be ginklų licencijos",
+            "value": 15
+        }, {
+            "name": "Narkotikų turėjimas su savimi",
+            "value": 15
+        }, {
+            "name": "Narkotikų platinimas",
+            "value": 20
+        }, {
+            "name": "Narkotikų gaminimas",
+            "value": 30
+        }, {
+            "name": "Nešvarių pinigų turėjimas",
+            "value": 20
+        }, {
+            "name": "Bėgimas nuo pareigūnų",
+            "value": 15
+        }, {
+            "name": "Grubus viešosios tvarkos pažeidimas",
+            "value": 20
+        }, {
+            "name": "Grubūs K.E.T pažeidimai",
+            "value": 25
+        }, {
+            "name": "Pareigūnų copbait'as",
+            "value": 30
+        }, {
+            "name": "Pareigūnų įžeidinėjimas",
+            "value": 15
+        }, {
+            "name": "Apsimetinėjimas statutiniu pareigūnu/mediku/mechaniku",
+            "value": 10
+        }, {
+            "name": "Pasikėsinimas į civilio gyvybę",
+            "value": 30
+        }, {
+            "name": "Pasikėsinimas į pareigūno gyvybę",
+            "value": 35
+        }, {
+            "name": "Žmogžudystė",
+            "value": 45
+        }, {
+            "name": "Darbo metu pareigūno arba mediko nužudymas",
+            "value": 50
+        }, {
+            "name": "Masinis žudymas",
+            "value": 80
+        }, {
+            "name": "Parduotuvės apiplėšimas",
+            "value": 20
+        }, {
+            "name": "Banko apiplėšimas",
+            "value": 25
+        }, {
+            "name": "Tr.priemonės vagystė",
+            "value": 10
+        }, {
+            "name": "Bendrininkavimas vykdant nelegalią veiklą",
+            "value": 20
+        }, {
+            "name": "Bendrininkavimas vykdant civilių grobimus",
+            "value": 25
+        }, {
+            "name": "Bendrininkavimas vykdant žmogžudystę",
+            "value": 30
+        }, {
+            "name": "Buvimas lokacijoje",
+            "value": 15
+        }, {
+            "name": "Lokacijų pardavinėjimas",
+            "value": 10
+        }, {
+            "name": "Lokacijų pirkimas",
+            "value": 10
+        }
+    ]
+}
